@@ -203,24 +203,14 @@ firebase deploy
 
 ---
 
-## 📋 Todo / Roadmap
-
-- [ ] Add calendar integration
-- [ ] Implement notification system
-- [ ] Add export to PDF functionality
-- [ ] Mobile app development
-- [ ] Advanced analytics dashboard
-- [ ] Multi-language support
-
----
-
 ## 🐛 Troubleshooting
 
 ### Common Issues
 
 **Build fails to start?**
 - Check Node.js version (v16+ required)
-- Clear node_modules: m -rf node_modules && npm install
+- Clear node_modules: 
+m -rf node_modules && npm install
 
 **Firebase connection issues?**
 - Verify .env configuration
@@ -230,12 +220,6 @@ firebase deploy
 **Authentication not working?**
 - Check Firebase Authentication settings
 - Verify authorized domains in Firebase console
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -252,3 +236,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <p>Made with ❤️ for better education management</p>
   <p>⭐ Star this repo if you find it helpful!</p>
 </div>
+
