@@ -3,7 +3,6 @@ import { useNavigate } from 'react-router-dom';
 import { Box, Button, TextField, Typography, Container, Alert } from '@mui/material';
 import { loginUser } from '../../api/firebase';
 import { validateEmail, validatePassword } from '../../utils/validators';
-import { auth } from "./firebaseConfig";
 const Login = () => {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
