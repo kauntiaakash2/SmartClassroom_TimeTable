@@ -1,0 +1,172 @@
+{
+  "Monday": {
+    "9:00": {
+      "subject": "Mathematics",
+      "teacher": "Dr. Smith"
+    },
+    "10:00": {
+      "subject": "Physics",
+      "teacher": "Prof. Johnson"
+    },
+    "11:00": {
+      "subject": "Chemistry",
+      "teacher": "Dr. Brown"
+    },
+    "12:00": {
+      "subject": "Break",
+      "teacher": ""
+    },
+    "13:00": {
+      "subject": "English",
+      "teacher": "Ms. Davis"
+    },
+    "14:00": {
+      "subject": "Computer Science",
+      "teacher": "Dr. Wilson"
+    },
+    "15:00": {
+      "subject": "Biology",
+      "teacher": "Prof. Miller"
+    },
+    "16:00": {
+      "subject": "Study Hall",
+      "teacher": ""
+    }
+  },
+  "Tuesday": {
+    "9:00": {
+      "subject": "Physics",
+      "teacher": "Prof. Johnson"
+    },
+    "10:00": {
+      "subject": "Mathematics",
+      "teacher": "Dr. Smith"
+    },
+    "11:00": {
+      "subject": "English",
+      "teacher": "Ms. Davis"
+    },
+    "12:00": {
+      "subject": "Break",
+      "teacher": ""
+    },
+    "13:00": {
+      "subject": "Computer Science",
+      "teacher": "Dr. Wilson"
+    },
+    "14:00": {
+      "subject": "Chemistry",
+      "teacher": "Dr. Brown"
+    },
+    "15:00": {
+      "subject": "Physical Education",
+      "teacher": "Coach Anderson"
+    },
+    "16:00": {
+      "subject": "",
+      "teacher": ""
+    }
+  },
+  "Wednesday": {
+    "9:00": {
+      "subject": "Chemistry",
+      "teacher": "Dr. Brown"
+    },
+    "10:00": {
+      "subject": "Biology",
+      "teacher": "Prof. Miller"
+    },
+    "11:00": {
+      "subject": "Mathematics",
+      "teacher": "Dr. Smith"
+    },
+    "12:00": {
+      "subject": "Break",
+      "teacher": ""
+    },
+    "13:00": {
+      "subject": "Physics",
+      "teacher": "Prof. Johnson"
+    },
+    "14:00": {
+      "subject": "English",
+      "teacher": "Ms. Davis"
+    },
+    "15:00": {
+      "subject": "Computer Science Lab",
+      "teacher": "Dr. Wilson"
+    },
+    "16:00": {
+      "subject": "",
+      "teacher": ""
+    }
+  },
+  "Thursday": {
+    "9:00": {
+      "subject": "English",
+      "teacher": "Ms. Davis"
+    },
+    "10:00": {
+      "subject": "Chemistry",
+      "teacher": "Dr. Brown"
+    },
+    "11:00": {
+      "subject": "Physics",
+      "teacher": "Prof. Johnson"
+    },
+    "12:00": {
+      "subject": "Break",
+      "teacher": ""
+    },
+    "13:00": {
+      "subject": "Biology",
+      "teacher": "Prof. Miller"
+    },
+    "14:00": {
+      "subject": "Mathematics",
+      "teacher": "Dr. Smith"
+    },
+    "15:00": {
+      "subject": "History",
+      "teacher": "Mr. Thompson"
+    },
+    "16:00": {
+      "subject": "",
+      "teacher": ""
+    }
+  },
+  "Friday": {
+    "9:00": {
+      "subject": "Biology",
+      "teacher": "Prof. Miller"
+    },
+    "10:00": {
+      "subject": "English",
+      "teacher": "Ms. Davis"
+    },
+    "11:00": {
+      "subject": "Computer Science",
+      "teacher": "Dr. Wilson"
+    },
+    "12:00": {
+      "subject": "Break",
+      "teacher": ""
+    },
+    "13:00": {
+      "subject": "Mathematics",
+      "teacher": "Dr. Smith"
+    },
+    "14:00": {
+      "subject": "Physics Lab",
+      "teacher": "Prof. Johnson"
+    },
+    "15:00": {
+      "subject": "Art",
+      "teacher": "Ms. Garcia"
+    },
+    "16:00": {
+      "subject": "",
+      "teacher": ""
+    }
+  }
+}

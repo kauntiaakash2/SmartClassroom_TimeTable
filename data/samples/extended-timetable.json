@@ -1,0 +1,332 @@
+{
+  "Monday": {
+    "9:00": {
+      "subject": "Advanced Mathematics",
+      "teacher": "Dr. Smith",
+      "room": "Room 101",
+      "section": "A",
+      "type": "lecture",
+      "duration": 60
+    },
+    "10:00": {
+      "subject": "Physics Theory",
+      "teacher": "Prof. Johnson",
+      "room": "Room 205",
+      "section": "A",
+      "type": "lecture",
+      "duration": 60
+    },
+    "11:00": {
+      "subject": "Chemistry Lab",
+      "teacher": "Dr. Brown",
+      "room": "Lab 301",
+      "section": "A",
+      "type": "lab",
+      "duration": 60
+    },
+    "12:00": {
+      "subject": "Lunch Break",
+      "teacher": "",
+      "room": "Cafeteria",
+      "section": "",
+      "type": "break",
+      "duration": 60
+    },
+    "13:00": {
+      "subject": "English Literature",
+      "teacher": "Ms. Davis",
+      "room": "Room 102",
+      "section": "A",
+      "type": "lecture",
+      "duration": 60
+    },
+    "14:00": {
+      "subject": "Computer Programming",
+      "teacher": "Dr. Wilson",
+      "room": "Computer Lab",
+      "section": "A",
+      "type": "lab",
+      "duration": 60
+    },
+    "15:00": {
+      "subject": "Biology Theory",
+      "teacher": "Prof. Miller",
+      "room": "Room 203",
+      "section": "A",
+      "type": "lecture",
+      "duration": 60
+    },
+    "16:00": {
+      "subject": "Study Period",
+      "teacher": "Class Monitor",
+      "room": "Room 102",
+      "section": "A",
+      "type": "study",
+      "duration": 60
+    }
+  },
+  "Tuesday": {
+    "9:00": {
+      "subject": "Physics Lab",
+      "teacher": "Prof. Johnson",
+      "room": "Physics Lab",
+      "section": "A",
+      "type": "lab",
+      "duration": 60
+    },
+    "10:00": {
+      "subject": "Calculus",
+      "teacher": "Dr. Smith",
+      "room": "Room 101",
+      "section": "A",
+      "type": "lecture",
+      "duration": 60
+    },
+    "11:00": {
+      "subject": "Creative Writing",
+      "teacher": "Ms. Davis",
+      "room": "Room 102",
+      "section": "A",
+      "type": "tutorial",
+      "duration": 60
+    },
+    "12:00": {
+      "subject": "Lunch Break",
+      "teacher": "",
+      "room": "Cafeteria",
+      "section": "",
+      "type": "break",
+      "duration": 60
+    },
+    "13:00": {
+      "subject": "Data Structures",
+      "teacher": "Dr. Wilson",
+      "room": "Computer Lab",
+      "section": "A",
+      "type": "lecture",
+      "duration": 60
+    },
+    "14:00": {
+      "subject": "Organic Chemistry",
+      "teacher": "Dr. Brown",
+      "room": "Room 205",
+      "section": "A",
+      "type": "lecture",
+      "duration": 60
+    },
+    "15:00": {
+      "subject": "Physical Education",
+      "teacher": "Coach Anderson",
+      "room": "Gymnasium",
+      "section": "A",
+      "type": "practical",
+      "duration": 60
+    },
+    "16:00": {
+      "subject": "",
+      "teacher": "",
+      "room": "",
+      "section": "",
+      "type": "",
+      "duration": 0
+    }
+  },
+  "Wednesday": {
+    "9:00": {
+      "subject": "Chemistry Theory",
+      "teacher": "Dr. Brown",
+      "room": "Room 205",
+      "section": "A",
+      "type": "lecture",
+      "duration": 60
+    },
+    "10:00": {
+      "subject": "Biology Lab",
+      "teacher": "Prof. Miller",
+      "room": "Biology Lab",
+      "section": "A",
+      "type": "lab",
+      "duration": 60
+    },
+    "11:00": {
+      "subject": "Statistics",
+      "teacher": "Dr. Smith",
+      "room": "Room 101",
+      "section": "A",
+      "type": "lecture",
+      "duration": 60
+    },
+    "12:00": {
+      "subject": "Lunch Break",
+      "teacher": "",
+      "room": "Cafeteria",
+      "section": "",
+      "type": "break",
+      "duration": 60
+    },
+    "13:00": {
+      "subject": "Modern Physics",
+      "teacher": "Prof. Johnson",
+      "room": "Room 203",
+      "section": "A",
+      "type": "lecture",
+      "duration": 60
+    },
+    "14:00": {
+      "subject": "Technical Writing",
+      "teacher": "Ms. Davis",
+      "room": "Room 102",
+      "section": "A",
+      "type": "tutorial",
+      "duration": 60
+    },
+    "15:00": {
+      "subject": "Web Development",
+      "teacher": "Dr. Wilson",
+      "room": "Computer Lab",
+      "section": "A",
+      "type": "lab",
+      "duration": 60
+    },
+    "16:00": {
+      "subject": "",
+      "teacher": "",
+      "room": "",
+      "section": "",
+      "type": "",
+      "duration": 0
+    }
+  },
+  "Thursday": {
+    "9:00": {
+      "subject": "Grammar & Composition",
+      "teacher": "Ms. Davis",
+      "room": "Room 102",
+      "section": "A",
+      "type": "lecture",
+      "duration": 60
+    },
+    "10:00": {
+      "subject": "Physical Chemistry",
+      "teacher": "Dr. Brown",
+      "room": "Room 205",
+      "section": "A",
+      "type": "lecture",
+      "duration": 60
+    },
+    "11:00": {
+      "subject": "Quantum Physics",
+      "teacher": "Prof. Johnson",
+      "room": "Room 203",
+      "section": "A",
+      "type": "lecture",
+      "duration": 60
+    },
+    "12:00": {
+      "subject": "Lunch Break",
+      "teacher": "",
+      "room": "Cafeteria",
+      "section": "",
+      "type": "break",
+      "duration": 60
+    },
+    "13:00": {
+      "subject": "Genetics",
+      "teacher": "Prof. Miller",
+      "room": "Room 204",
+      "section": "A",
+      "type": "lecture",
+      "duration": 60
+    },
+    "14:00": {
+      "subject": "Discrete Mathematics",
+      "teacher": "Dr. Smith",
+      "room": "Room 101",
+      "section": "A",
+      "type": "lecture",
+      "duration": 60
+    },
+    "15:00": {
+      "subject": "World History",
+      "teacher": "Mr. Thompson",
+      "room": "Room 106",
+      "section": "A",
+      "type": "lecture",
+      "duration": 60
+    },
+    "16:00": {
+      "subject": "",
+      "teacher": "",
+      "room": "",
+      "section": "",
+      "type": "",
+      "duration": 0
+    }
+  },
+  "Friday": {
+    "9:00": {
+      "subject": "Molecular Biology",
+      "teacher": "Prof. Miller",
+      "room": "Room 204",
+      "section": "A",
+      "type": "lecture",
+      "duration": 60
+    },
+    "10:00": {
+      "subject": "Public Speaking",
+      "teacher": "Ms. Davis",
+      "room": "Auditorium",
+      "section": "A",
+      "type": "practical",
+      "duration": 60
+    },
+    "11:00": {
+      "subject": "Database Systems",
+      "teacher": "Dr. Wilson",
+      "room": "Computer Lab",
+      "section": "A",
+      "type": "lecture",
+      "duration": 60
+    },
+    "12:00": {
+      "subject": "Lunch Break",
+      "teacher": "",
+      "room": "Cafeteria",
+      "section": "",
+      "type": "break",
+      "duration": 60
+    },
+    "13:00": {
+      "subject": "Linear Algebra",
+      "teacher": "Dr. Smith",
+      "room": "Room 101",
+      "section": "A",
+      "type": "lecture",
+      "duration": 60
+    },
+    "14:00": {
+      "subject": "Experimental Physics",
+      "teacher": "Prof. Johnson",
+      "room": "Physics Lab",
+      "section": "A",
+      "type": "lab",
+      "duration": 60
+    },
+    "15:00": {
+      "subject": "Fine Arts",
+      "teacher": "Ms. Garcia",
+      "room": "Art Studio",
+      "section": "A",
+      "type": "practical",
+      "duration": 60
+    },
+    "16:00": {
+      "subject": "",
+      "teacher": "",
+      "room": "",
+      "section": "",
+      "type": "",
+      "duration": 0
+    }
+  }
+}
